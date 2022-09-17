@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jorobard4@gmail.com
+	name = josephine robard
